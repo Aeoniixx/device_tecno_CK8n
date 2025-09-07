@@ -1,5 +1,13 @@
 # All blobs from sys_tssi_64_armv82_tecno-user 14 UP1A.231005.007 732551 release-keys, unless pinned
 
+# Test
+vendor/lib/libtranlog.so
+vendor/lib/libtneclient.so
+
+vendor/lib/libadpcmdec_mtk.so
+vendor/lib64/libmegface.so
+vendor/lib64/libmp3dec_mtk.so
+
 # AEE
 vendor/lib/libaedv.so
 vendor/lib64/libaedv.so
